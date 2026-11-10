@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spring Boot, React JS, Hibernate, ETC.
 - 👯 I’m looking to collaborate on Open Source programs.
 - 📫 How to reach me: dattatraybodake1@gmail.com
-- 😄 Pronouns: He / Him
     </p>
 
 ## 📊 GitHub Stats
